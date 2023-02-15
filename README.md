@@ -15,3 +15,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thenamdev&icon=0&color=0)](https://visitcount.itsvg.in)
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
