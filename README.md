@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 VJU
+🔭 VNU
 
 
 # 💻 Programming languages:
