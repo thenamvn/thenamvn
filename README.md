@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 VNU
+🔭 Vietnam National University, Hanoi
 
 
 # 💻 Programming languages:
